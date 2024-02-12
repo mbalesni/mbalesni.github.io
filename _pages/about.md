@@ -10,24 +10,21 @@ profile:
 ---
 
 <div id="about-section">
-<p>I am a research scientist and founding member at <a href="https://www.apolloresearch.ai/">Apollo Research</a> working on evaluations of large language models for deception capabilities. Previously, I was a <a href="https://www.matsprogram.org/">MATS scholar</a> working with <a href="https://owainevans.github.io/">Owain Evans</a> on evaluating <a href="https://arxiv.org/abs/2309.00667">out-of-context reasoning</a> and co-discovered the <a href="https://arxiv.org/abs/2309.12288">Reversal Curse</a>.</p>
+  <p>I am a research scientist and founding member at <a href="https://www.apolloresearch.ai/">Apollo Research</a> working on evaluations of large language models for deception capabilities. Previously, I was a <a href="https://www.matsprogram.org/">MATS scholar</a> working with <a href="https://owainevans.github.io/">Owain Evans</a> on evaluating <a href="https://arxiv.org/abs/2309.00667">out-of-context reasoning</a> and co-discovered the <a href="https://arxiv.org/abs/2309.12288">Reversal Curse</a>.</p>
 
-<p>Recently, I worked on the GPT-4 <a href="https://arxiv.org/abs/2311.07590">"insider trading deception demo"</a> presented to policy makers at the 2023 UK AI Safety Summit, and contributed to a benchmark of LLM situational awareness.</p>
+  <p>Recently, I worked on the GPT-4 <a href="https://arxiv.org/abs/2311.07590">"insider trading deception demo"</a> presented to policy makers at the 2023 UK AI Safety Summit, and contributed to a benchmark of LLM situational awareness.</p>
 
-<!-- div with links Email / Google Scholar / GitHub / Facebook / Twitter / CV -->
-<div class="social">
-  <a href="mailto:mbalesni@gmail.com" target="_blank" title="Email">Email</a> / 
-  <a href="https://scholar.google.com/citations?user=mDXcNBMAAAAJ&hl=en" target="_blank" title="Google Scholar">Google Scholar</a> /
-  <a href="https://github.com/mbalesni" target="_blank" title="GitHub">GitHub</a> /
-  <a href="https://www.facebook.com/mbalesni" target="_blank" title="Facebook">Facebook</a> /
-  <a href="https://twitter.com/balesni" target="_blank" title="Twitter">Twitter</a>
-  <!-- <a href="/assets/cv/cv.pdf" target="_blank" title="CV">CV</a> -->
+  <!-- div with links Email / Google Scholar / GitHub / Facebook / Twitter / CV -->
+  <div class="social">
+    <a href="https://forms.gle/6Sv2RZYjC43DEdzU7">Feedback form</a> /
+    <a href="mailto:mbalesni@gmail.com" target="_blank" title="Email">Email</a> / 
+    <a href="https://scholar.google.com/citations?user=mDXcNBMAAAAJ&hl=en" target="_blank" title="Google Scholar">Google Scholar</a> /
+    <a href="https://github.com/mbalesni" target="_blank" title="GitHub">GitHub</a> /
+    <a href="https://www.facebook.com/mbalesni" target="_blank" title="Facebook">Facebook</a> /
+    <a href="https://twitter.com/balesni" target="_blank" title="Twitter">Twitter</a>
+    <!-- <a href="/assets/cv/cv.pdf" target="_blank" title="CV">CV</a> -->
+  </div>
 </div>
-
-</div>
-
-
-
 
 <h2 class="about-subsection">Active research</h2>
 
