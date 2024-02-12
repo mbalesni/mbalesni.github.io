@@ -5,13 +5,8 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic_cropped.jpeg
   image_circular: true # crops the image to make it circular
-
-research: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 ---
 
 <div id="about-section">
@@ -46,7 +41,7 @@ I am currently working on:
 <ul class="research">
 
   <li>
-    <div class="thumb">
+    <div class="thumbnail">
       <a href="https://arxiv.org/abs/2311.08379">
         <img src="/assets/img/thumbnails/causal-framework.jpeg">
       </a>
@@ -62,7 +57,7 @@ I am currently working on:
     </li>
 
   <li>
-    <div class="thumb">
+    <div class="thumbnail">
       <a href="https://arxiv.org/abs/2311.07590">
         <img src="/assets/img/thumbnails/insider-trading.png">
       </a>
@@ -80,7 +75,7 @@ I am currently working on:
 
 
   <li>
-    <div class="thumb">
+    <div class="thumbnail">
       <a href="https://arxiv.org/abs/2309.12288">
         <img src="/assets/img/thumbnails/reversal.jpg">
       </a>
@@ -97,7 +92,7 @@ I am currently working on:
   </li>
 
   <li>
-    <div class="thumb">
+    <div class="thumbnail">
       <a href="https://arxiv.org/abs/2309.00667">
         <img src="/assets/img/thumbnails/sita.jpg">
       </a>
