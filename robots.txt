@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mbalesni.github.ioal-folio/sitemap.xml
+Sitemap: https://mbalesni.github.io//sitemap.xml
