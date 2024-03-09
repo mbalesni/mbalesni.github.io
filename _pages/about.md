@@ -39,12 +39,12 @@ I am currently working on:
 
   <li>
     <div class="thumbnail">
-      <a href="https://arxiv.org/abs/2311.08379">
+      <a href="https://www.preprints.org/manuscript/202401.1424/v1">
         <img src="/assets/img/thumbnails/causal-framework.jpeg">
       </a>
     </div>
     <div class="text">
-      <a href="https://arxiv.org/abs/2311.08379">
+      <a href="https://www.preprints.org/manuscript/202401.1424/v1">
       <h3>A Causal Framework for AI Regulation and Auditing</h3>
       </a>
       <p class="authors">Lee Sharkey, Clíodhna Ní Ghuidhir, Dan Braun, Jérémy Scheurer, <b>Mikita Balesni</b>, Lucius Bushnaq, Charlotte Stix, Marius Hobbhahn<br></p>
