@@ -64,7 +64,7 @@ I am currently working on:
       <h3>Large Language Models can Strategically Deceive their Users when Put Under Pressure</h3>
       </a>
       <p class="authors">Jérémy Scheurer*, <b>Mikita Balesni*</b>, Marius Hobbhahn<br></p>
-      <!-- <p class="venues"></p> -->
+      <p class="venues">Oral @ ICLR 2024 LLM Agents</p>
       <p class="tldr">GPT-4 can deceive its users without instruction in a simulated high-pressure insider trading scenario.</p>
       <p class="link"><a href="https://github.com/apolloResearch/insider-trading" target="_blank">Code</a></p>
     </div>
