@@ -5,14 +5,12 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic_cropped.jpeg
+  image: 2024_pic_cropped.jpg
   image_circular: true # crops the image to make it circular
 ---
 
 <div id="about-section">
-  <p>I am a research scientist and founding member at <a href="https://www.apolloresearch.ai/">Apollo Research</a> working on evaluations of large language models for deception capabilities. Previously, I was a <a href="https://www.matsprogram.org/">MATS scholar</a> working with <a href="https://owainevans.github.io/">Owain Evans</a> on evaluating <a href="https://arxiv.org/abs/2309.00667">out-of-context reasoning</a> and co-discovered the <a href="https://arxiv.org/abs/2309.12288">Reversal Curse</a>.</p>
-
-  <p>Recently, I worked on the GPT-4 <a href="https://arxiv.org/abs/2311.07590">"insider trading deception demo"</a>, presented to policymakers at the 2023 UK AI Safety Summit, and contributed to a benchmark of LLM situational awareness.</p>
+  <p>I am a Research Scientist and founding member at <a href="https://www.apolloresearch.ai/">Apollo Research</a> working on safety cases and evaluations for frontier AI models. My work is focused on threats from capable LLM agents being misaligned and "scheming". Previously, I was a <a href="https://www.matsprogram.org/">MATS scholar</a> working with <a href="https://owainevans.github.io/">Owain Evans</a> on evaluating <a href="https://arxiv.org/abs/2309.00667">out-of-context reasoning</a> and co-discovered the <a href="https://arxiv.org/abs/2309.12288">Reversal Curse</a>.</p>
 
   <!-- div with links Email / Google Scholar / GitHub / Facebook / Twitter / CV -->
   <div class="social">
@@ -29,9 +27,8 @@ profile:
 <h2 class="about-subsection">Active research</h2>
 
 I am currently working on:
-* a model organism of naturally emergent misalignment from training on benign long-term goals
-* an LLM agent capability evaluation for deception
-* evaluations of [alignment faking](https://arxiv.org/abs/2311.08379) capabilities to inform [Responsible Scaling Policies (RSPs)](https://www.anthropic.com/news/anthropics-responsible-scaling-policy)
+* evaluating latent reasoning capabilities of LLMs, motivated by making [safety cases for scheming](https://arxiv.org/abs/2411.03336) based on monitoring agents' reasoning.
+* developing evaluations of AI agent capabilities for [sabotage](https://arxiv.org/abs/2410.21514).
 
 <h2 class="about-subsection">Past Research</h2>
 
