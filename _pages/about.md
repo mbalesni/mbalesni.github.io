@@ -30,25 +30,41 @@ I am currently working on:
 * evaluating latent reasoning capabilities of LLMs, motivated by making [safety cases for scheming](https://arxiv.org/abs/2411.03336) based on monitoring agents' reasoning.
 * developing evaluations of AI agent capabilities for [sabotage](https://arxiv.org/abs/2410.21514).
 
-<h2 class="about-subsection">Past Research</h2>
+<h2 class="about-subsection">Highlighted Research</h2>
 
 <ul class="research">
 
   <li>
     <div class="thumbnail">
-      <a href="https://www.preprints.org/manuscript/202401.1424/v1">
-        <img src="/assets/img/thumbnails/causal-framework.jpeg">
+      <a href="https://arxiv.org/abs/2411.03336">
+        <img src="/assets/img/thumbnails/scheming_safety_cases.png">
       </a>
     </div>
     <div class="text">
-      <a href="https://www.preprints.org/manuscript/202401.1424/v1">
-      <h3>A Causal Framework for AI Regulation and Auditing</h3>
+      <a href="https://arxiv.org/abs/2411.03336">
+      <h3>Towards evaluations-based safety cases for AI scheming</h3>
       </a>
-      <p class="authors">Lee Sharkey, Clíodhna Ní Ghuidhir, Dan Braun, Jérémy Scheurer, <b>Mikita Balesni</b>, Lucius Bushnaq, Charlotte Stix, Marius Hobbhahn<br></p>
+      <p class="authors"><b>Mikita Balesni</b>, Marius Hobbhahn, David Lindner, Alexander Meinke, Tomek Korbak, Joshua Clymer, Buck Shlegeris, Jérémy Scheurer, Charlotte Stix, Rusheb Shah, Nicholas Goldowsky-Dill, Dan Braun, Bilal Chughtai, Owain Evans, Daniel Kokotajlo, Lucius Bushnaq<br></p>
       <!-- <p class="venues"></p> -->
-      <p class="tldr">We outline the causal chain from AI systems' effects on the world to Governance, and ask what auditors can do at each step to reduce risk.</p>
+      <p class="tldr">We sketch how developers of frontier AI systems could construct a structured rationale — a 'safety case' — that an AI system is unlikely to cause catastrophic outcomes through <i>scheming</i> — pursuing misaligned goals covertly, hiding their true capabilities and objectives.</p>
     </div>
-    </li>
+  </li>
+
+  <li>
+    <div class="thumbnail">
+      <a href="https://arxiv.org/abs/2407.04694">
+        <img src="/assets/img/thumbnails/sad-figure.jpeg">
+      </a>
+    </div>
+    <div class="text">
+      <a href="https://arxiv.org/abs/2407.04694">
+      <h3>Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs</h3>
+      </a>
+      <p class="authors">Rudolf Laine, Bilal Chughtai, Jan Betley, Kaivalya Hariharan, Jeremy Scheurer, <b>Mikita Balesni</b>, Marius Hobbhahn, Alexander Meinke, Owain Evans<br></p>
+      <p class="venues">NeurIPS Datasets & Benchmarks Track 2024</p>
+      <p class="tldr">We quantify how well LLMs understand themselves through 13k behavioral tests, finding gaps even in top models.</p>
+    </div>
+  </li>
 
   <li>
     <div class="thumbnail">
