@@ -69,7 +69,7 @@ profile:
       <a href="https://arxiv.org/abs/2411.16353">
       <h3>Lessons from studying two-hop latent reasoning</h3>
       </a>
-      <p class="authors"><b>Mikita Balesni</b>, Tomek Korbak, Owain Evans</p>
+      <p class="authors"><b>Mikita Balesni*</b>, Tomek Korbak*, Owain Evans</p>
       <p class="venues">arXiv preprint (2025)</p>
       <p class="link"><a href="https://github.com/mbalesni/synthetic-two-hop/" target="_blank">Code</a></p>
     </div>
@@ -85,7 +85,7 @@ profile:
       <a href="https://arxiv.org/abs/2507.11473">
       <h3>Chain of thought monitorability: A new and fragile opportunity for AI safety</h3>
       </a>
-      <p class="authors">Tomek Korbak, <b>Mikita Balesni</b>, Elizabeth Barnes, Yoshua Bengio, Joe Benton, Joseph Bloom, Mark Chen, Alan Cooney, Allan Dafoe, Anca Dragan, and others</p>
+      <p class="authors">Tomek Korbak*, <b>Mikita Balesni*</b>, Elizabeth Barnes, Yoshua Bengio, Joe Benton, Joseph Bloom, Mark Chen, Alan Cooney, Allan Dafoe, Anca Dragan, and others</p>
       <p class="venues">arXiv preprint (2025)</p>
       <p class="link"><a href="https://x.com/balesni/status/1945151391674057154" target="_blank">Twitter</a></p>
     </div>
