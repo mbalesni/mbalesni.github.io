@@ -10,7 +10,16 @@ profile:
 ---
 
 <div id="about-section">
-  <p>I am a Research Scientist and founding member at <a href="https://www.apolloresearch.ai/">Apollo Research</a> working on safety cases and evaluations for frontier AI models. My work is focused on threats from capable LLM agents being misaligned and "scheming". Previously, I was a <a href="https://www.matsprogram.org/">MATS scholar</a> working with <a href="https://owainevans.github.io/">Owain Evans</a> on evaluating <a href="https://arxiv.org/abs/2309.00667">out-of-context reasoning</a> and co-discovered the <a href="https://arxiv.org/abs/2309.12288">Reversal Curse</a>.</p>
+  <p>I work as a Member of Technical Staff at OpenAI's Alignment team.<br><br>
+  
+   I focus on ensuring that future highly capable LLM agents are aligned with human intentions and do not cause catastrophic outcomes.<br><br>
+   
+   Previously, I was:
+   <ul>
+    <li>A Research Scientist and founding member at <a href="https://www.apolloresearch.ai/">Apollo Research</a> working on AI safety cases; evaluations of frontier AI models for scheming and situational awareness; and chain-of-thought monitorability. </li>
+    <li>A <a href="https://www.matsprogram.org/">MATS scholar</a> working with <a href="https://owainevans.github.io/">Owain Evans</a> on evaluating <a href="https://arxiv.org/abs/2309.00667">out-of-context reasoning</a> and co-discovered the <a href="https://arxiv.org/abs/2309.12288">Reversal Curse</a>.</li>
+   </ul>
+  </p>
 
   <!-- div with links Email / Google Scholar / GitHub / Facebook / Twitter / CV -->
   <div class="social">
@@ -20,7 +29,6 @@ profile:
     <a href="https://github.com/mbalesni" target="_blank" title="GitHub">GitHub</a> /
     <a href="https://www.facebook.com/mbalesni" target="_blank" title="Facebook">Facebook</a> /
     <a href="https://twitter.com/balesni" target="_blank" title="Twitter">Twitter</a>
-    <!-- <a href="/assets/cv/cv.pdf" target="_blank" title="CV">CV</a> -->
   </div>
 </div>
 
@@ -33,6 +41,101 @@ I am currently working on:
 <h2 class="about-subsection">Highlighted Research</h2>
 
 <ul class="research">
+
+  <li>
+    <div class="thumbnail">
+      <a href="https://arxiv.org/abs/2509.15541">
+        <img src="/assets/img/thumbnails/stress-testing.png">
+      </a>
+    </div>
+    <div class="text">
+      <a href="https://arxiv.org/abs/2509.15541">
+      <h3>Stress testing deliberative alignment for anti-scheming training</h3>
+      </a>
+      <p class="authors">Bronson Schoen, Evgenia Nitishinskaya, <b>Mikita Balesni</b>, Axel Højmark, Felix Hofstätter, Jérémy Scheurer, Alexander Meinke, Jason Wolfe, Teun van der Weij, Alex Lloyd, and others</p>
+      <p class="venues">arXiv preprint (2025)</p>
+      <p class="link"><a href="https://antischeming.ai/" target="_blank">Website</a></p>
+    </div>
+  </li>
+
+  <li>
+    <div class="thumbnail">
+      <a href="https://arxiv.org/abs/2411.16353">
+        <img src="/assets/img/thumbnails/two-hop-reasoning.png">
+      </a>
+    </div>
+    <div class="text">
+      <a href="https://arxiv.org/abs/2411.16353">
+      <h3>Lessons from studying two-hop latent reasoning</h3>
+      </a>
+      <p class="authors"><b>Mikita Balesni</b>, Tomek Korbak, Owain Evans</p>
+      <p class="venues">arXiv preprint (2025)</p>
+      <p class="link"><a href="https://github.com/mbalesni/synthetic-two-hop/" target="_blank">Code</a></p>
+    </div>
+  </li>
+
+  <li>
+    <div class="thumbnail">
+      <a href="https://arxiv.org/abs/2507.11473">
+        <img src="/assets/img/thumbnails/cot-monitorability.png">
+      </a>
+    </div>
+    <div class="text">
+      <a href="https://arxiv.org/abs/2507.11473">
+      <h3>Chain of thought monitorability: A new and fragile opportunity for AI safety</h3>
+      </a>
+      <p class="authors">Tomek Korbak, <b>Mikita Balesni</b>, Elizabeth Barnes, Yoshua Bengio, Joe Benton, Joseph Bloom, Mark Chen, Alan Cooney, Allan Dafoe, Anca Dragan, and others</p>
+      <p class="venues">arXiv preprint (2025)</p>
+      <p class="link"><a href="https://x.com/balesni/status/1945151391674057154" target="_blank">Twitter</a></p>
+    </div>
+  </li>
+
+  <!-- <li>
+    <div class="thumbnail">
+      <a href="https://arxiv.org/abs/2504.12170">
+        <img src="/assets/img/thumbnails/internal-deployment.png">
+      </a>
+    </div>
+    <div class="text">
+      <a href="https://arxiv.org/abs/2504.12170">
+      <h3>AI Behind Closed Doors: A Primer on The Governance of Internal Deployment</h3>
+      </a>
+      <p class="authors">Charlotte Stix, Matteo Pistillo, Girish Sastry, Marius Hobbhahn, Alejandro Ortega, <b>Mikita Balesni</b>, Annika Hallensleben, Nix Goldowsky-Dill, Lee Sharkey</p>
+      <p class="venues">arXiv preprint (2025)</p>
+    </div>
+  </li> -->
+
+  <li>
+    <div class="thumbnail">
+      <a href="https://arxiv.org/abs/2504.05259">
+        <img src="/assets/img/thumbnails/control-measures.png">
+      </a>
+    </div>
+    <div class="text">
+      <a href="https://arxiv.org/abs/2504.05259">
+      <h3>How to evaluate control measures for LLM agents? A trajectory from today to superintelligence</h3>
+      </a>
+      <p class="authors">Tomek Korbak, <b>Mikita Balesni</b>, Buck Shlegeris, Geoffrey Irving</p>
+      <p class="venues">arXiv preprint (2025)</p>
+      <p class="link"><a href="https://x.com/tomekkorbak/status/1911822598218100929" target="_blank">Twitter</a></p>
+    </div>
+  </li>
+
+  <li>
+    <div class="thumbnail">
+      <a href="https://arxiv.org/abs/2412.04984">
+        <img src="/assets/img/thumbnails/in-context-scheming.png">
+      </a>
+    </div>
+    <div class="text">
+      <a href="https://arxiv.org/abs/2412.04984">
+      <h3>Frontier models are capable of in-context scheming</h3>
+      </a>
+      <p class="authors">Alexander Meinke, Bronson Schoen, Jérémy Scheurer, <b>Mikita Balesni</b>, Rusheb Shah, Marius Hobbhahn</p>
+      <p class="venues">arXiv preprint (2024)</p>
+      <p class="link"><a href="https://www.apolloresearch.ai/research/frontier-models-are-capable-of-incontext-scheming/" target="_blank">Blogpost</a> / <a href="https://x.com/apolloaievals/status/1864735819207995716" target="_blank">Twitter</a></p>
+    </div>
+  </li>
 
   <li>
     <div class="thumbnail">
