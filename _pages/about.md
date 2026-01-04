@@ -21,22 +21,23 @@ profile:
    </ul>
   </p>
 
-  <!-- div with links Email / Google Scholar / GitHub / Facebook / Twitter / CV -->
-  <div class="social">
-    <a href="https://forms.gle/6Sv2RZYjC43DEdzU7">Feedback form</a> /
-    <a href="mailto:mbalesni@gmail.com" target="_blank" title="Email">Email</a> / 
+  <br>
+  <p>
+  Please consider providing <strong>anonymous feedback</strong> to me! You can use this <a href="https://forms.gle/6Sv2RZYjC43DEdzU7">Google Form</a>.
+  </p>
+  
+  <hr class="solid">
+  <!-- div with links Email / Twitter / Google Scholar / GitHub -->
+  <div class="social" style="text-align: center;">
+    mbalesni@gmail.com / 
+    <a href="https://twitter.com/balesni" target="_blank" title="Twitter">Twitter</a> /
     <a href="https://scholar.google.com/citations?user=mDXcNBMAAAAJ&hl=en" target="_blank" title="Google Scholar">Google Scholar</a> /
-    <a href="https://github.com/mbalesni" target="_blank" title="GitHub">GitHub</a> /
-    <a href="https://www.facebook.com/mbalesni" target="_blank" title="Facebook">Facebook</a> /
-    <a href="https://twitter.com/balesni" target="_blank" title="Twitter">Twitter</a>
+    <a href="https://github.com/mbalesni" target="_blank" title="GitHub">GitHub</a>
   </div>
+  <hr class="solid">
+
 </div>
 
-<h2 class="about-subsection">Active research</h2>
-
-I am currently working on:
-* evaluating latent reasoning capabilities of LLMs, motivated by making [safety cases for scheming](https://arxiv.org/abs/2411.03336) based on monitoring agents' reasoning.
-* developing evaluations of AI agent capabilities for [sabotage](https://arxiv.org/abs/2410.21514).
 
 <h2 class="about-subsection">Highlighted Research</h2>
 
