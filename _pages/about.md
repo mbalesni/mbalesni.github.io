@@ -10,7 +10,7 @@ profile:
 ---
 
 <div id="about-section">
-  <p>I work as a Member of Technical Staff at OpenAI's Alignment team.<br><br>
+  <p>I work on AI safety and alignment.<br><br>
   
    I focus on ensuring that future highly capable LLM agents are aligned with human intentions and do not cause catastrophic outcomes.<br><br>
    
